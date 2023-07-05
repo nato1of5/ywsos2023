@@ -38,3 +38,9 @@ Depending on your Python install, you may need to use `python3` and `pip3` inste
 1. Go to [Yelp account](https://www.yelp.com/developers/v3/manage_app) and create/login to an account
 2. Enter in the necessary information into the fields
 3. Copy the API key given and paste it into the `YELP_API_KEY` key in the `.env` file in the `server` folder
+
+### Instructions for running the test
+1. Go into the tests folder
+2. Open base_test.py
+3. Change the driver link on line 13 to your decided link
+4. Run base_test.py
